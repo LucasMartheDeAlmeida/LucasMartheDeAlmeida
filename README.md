@@ -4,10 +4,7 @@
 - 📁 Oracle
 - 💻 .NET
 
-Além disso, também estudo outras tecnologias e áreas, como:
-- 🐍 Python
-- ☕ Java
-- 🐧 Linux
+
 
 contato: lucasmarthe681@gmail.com
 
