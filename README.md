@@ -1,4 +1,4 @@
-👨‍🎓 Sou estudante de Engenharia da Computação do sétimo semestre, me chamo Lucas Marthe e atualmente trabalho com:
+
 - 📊 Power BI
 - 🗄️ SQL
 - 📁 Oracle
