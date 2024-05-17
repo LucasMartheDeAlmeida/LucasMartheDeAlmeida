@@ -2,7 +2,6 @@
 - 📊 Power BI
 - 🗄️ SQL
 - 📁 Oracle
-- 💻 .NET
 
 
 
